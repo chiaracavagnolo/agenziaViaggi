@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687692934631",
+    "project_id": "agenzia-viaggi-definitivo",
+    "storage_bucket": "agenzia-viaggi-definitivo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687692934631:android:22ed883284a560708fa142",
+        "android_client_info": {
+          "package_name": "com.example.agenzia_viaggi_definitivo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRfNPaP0IftZwocYvBPnYPifkU3LLlXzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
